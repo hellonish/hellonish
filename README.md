@@ -1,11 +1,3 @@
-<!--
-Replace:
-- hellonish with your GitHub username if different
-- YOUR_LINKEDIN_URL
-- YOUR_PORTFOLIO_URL
-- YOUR_EMAIL
--->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Nishant%20Sharma&fontSize=44&fontAlign=50&fontAlignY=35&desc=AI%20Systems%20%7C%20Backend%20%7C%20Cloud%20%7C%20Full-Stack&descAlign=50&descAlignY=60" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&width=950&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Builder;Building+LLM+Agents%2C+RAG+Systems%2C+Backend+Platforms;MS+Computer+Engineering+%40+NYU;FastAPI+%7C+Redis+%7C+PostgreSQL+%7C+AWS+%7C+Next.js)](https://git.io/typing-svg)
@@ -99,15 +91,17 @@ Docker + AWS + CI/CD
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellonish&hide_border=true&theme=transparent" />
 </p>
 
-<!-- This requires a GitHub Action that generates github-snake-dark.svg into the output branch. -->
-![github contribution snake](https://github.com/hellonish/hellonish/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellonish/hellonish/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellonish/hellonish/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hellonish/hellonish/output/github-snake.svg" />
+</picture>
 
 ## Connect
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/nishantsh20/">LinkedIn</a> •
+  <a href="https://www.hellonish.dev">Portfolio</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" />
