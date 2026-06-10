@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=nishant%20sharma&fontSize=44&fontAlign=50&fontAlignY=38&desc=making%20machines%20that%20think%20%26%20systems%20that%20scale&descAlign=50&descAlignY=62&color=0:0d1117,50:0ea5e9,100:38bdf8" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&fontSize=100&text=nish&fontAlignY=50&height=130&desc=ai+systems+·+backend+·+full-stack&descAlignY=80&descColor=7c8fa8&descSize=22" />
+</div>
 
 <div align="center">
 
@@ -23,14 +25,17 @@ $ neofetch
 ```
 
 ```
-                                    user    →  nishant sharma (@hellonish)
-   ██╗  ██╗██╗███████╗██╗  ██╗     host    →  NYU Tandon — MS Computer Engineering
-   ███╗░██║██║██╔════╝██║  ██║     uptime  →  23 years, 0 critical failures
-   ██╔██╗██║██║███████╗███████║    os      →  nish.sys v26.0 (always-building edition)
-   ██║╚████║██║╚════██║██╔══██║    shell   →  Python 3.12  TypeScript 5.4
-   ██║ ╚███║██║███████║██║  ██║    focus   →  LLM agents · RAG · async backends · real-time
-   ╚═╝  ╚══╝╚═╝╚══════╝╚═╝  ╚═╝   memory  →  [████████░░░░░░░] perpetually full of ideas
-                                    idle    →  false
+  ┌──────────────────────────────────────────────────────────────┐
+  │  nishant@nish.sys                                            │
+  ├──────────────────────────────────────────────────────────────┤
+  │  os      nish.sys v26.0 (always-building edition)            │
+  │  host    NYU Tandon — MS Computer Engineering                │
+  │  uptime  23 years, 0 critical failures                       │
+  │  shell   Python 3.12 · TypeScript 5.4                        │
+  │  focus   LLM agents · RAG · async backends · real-time       │
+  │  memory  [████████░░░░░░░] perpetually full of ideas         │
+  │  idle    false                                               │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -94,7 +99,7 @@ PID   NAME              STATUS    DESCRIPTION
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hellonish&no-frame=true&theme=onestar&column=7&margin-w=5&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Reviews)](https://github.com/hellonish)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hellonish&no-frame=true&no-bg=true&theme=darkhub&column=7&margin-w=6)](https://github.com/hellonish)
 
 </div>
 
@@ -131,7 +136,6 @@ PID   NAME              STATUS    DESCRIPTION
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/hellonish/hellonish/output/github-snake.svg" />
 </picture>
 
-**[↗ view my 3D contribution skyline](https://skyline.github.com/hellonish/2025)**
 
 </div>
 
@@ -143,4 +147,3 @@ PID   NAME              STATUS    DESCRIPTION
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:38bdf8,100:0d1117" />
