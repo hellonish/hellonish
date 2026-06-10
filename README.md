@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&fontSize=100&text=nish&fontAlignY=50&height=130&desc=ai+systems+·+backend+·+full-stack&descAlignY=80&descColor=7c8fa8&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&fontSize=70&text=Nishant%20Sharma&fontAlignY=50&height=130&desc=AI+SYSTEMS+·+BACKEND+·+FULL-STACK&descAlignY=80&descColor=7c8fa8&descSize=22" />
 </div>
 
 <div align="center">
