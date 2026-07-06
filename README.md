@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&fontSize=70&text=Nishant%20Sharma&fontAlignY=50&height=130&desc=AI+SYSTEMS+·+BACKEND+·+FULL-STACK&descAlignY=80&descColor=7c8fa8&descSize=22" />
+<img src="https://raw.githubusercontent.com/hellonish/hellonish/main/assets/name-banner.svg" alt="Nishant Sharma" width="820" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=38BDF8&background=00000000&width=700&lines=building+LLM+agents+that+are+actually+useful;RAG+%7C+async+backends+%7C+real-time+systems;MS+CompEng+%40+NYU+%E2%80%94+class+of+2026;always+be+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=38BDF8&background=00000000&width=700&lines=AI+Engineer;ML+Researcher;Founded+ineedajobpro;Founded+singularity.hellonish.dev)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/nishantsh20/">
