@@ -15,25 +15,15 @@ $ neofetch
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
-  │                                                              │
-  │   nishant@nish.sys                                           │
-  │                                                              │
+  │  nishant@nish.sys                                            │
   ├──────────────────────────────────────────────────────────────┤
-  │                                                              │
-  │   os      nish.sys v26.0 (always-building edition)           │
-  │                                                              │
-  │   host    NYU Tandon — MS Computer Engineering               │
-  │                                                              │
-  │   uptime  23 years, 0 critical failures                      │
-  │                                                              │
-  │   shell   Python 3.12 · TypeScript 5.4                       │
-  │                                                              │
-  │   focus   LLM agents · RAG · async backends · real-time      │
-  │                                                              │
-  │   memory  [████████░░░░░░░] perpetually full of ideas        │
-  │                                                              │
-  │   idle    false                                              │
-  │                                                              │
+  │  os      nish.sys v26.0 (always-building edition)            │
+  │  host    NYU Tandon — MS Computer Engineering                │
+  │  uptime  23 years, 0 critical failures                       │
+  │  shell   Python 3.12 · TypeScript 5.4                        │
+  │  focus   LLM agents · RAG · async backends · real-time       │
+  │  memory  [████████░░░░░░░] perpetually full of ideas         │
+  │  idle    false                                               │
   └──────────────────────────────────────────────────────────────┘
 ```
 

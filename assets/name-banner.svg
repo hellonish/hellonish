@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" fill="none" role="img" aria-label="Nishant Sharma terminal banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="210" viewBox="0 0 820 210" fill="none" role="img" aria-label="Nishant Sharma terminal banner">
   <style>
     .bg      { fill: #0d1117; }
     .frame   { fill: none; stroke: #1f2a37; stroke-width: 1.5; }
@@ -28,23 +28,23 @@
     }
   </style>
 
-  <rect class="bg" x="1" y="1" width="818" height="158" rx="12"/>
-  <rect class="frame" x="1" y="1" width="818" height="158" rx="12"/>
+  <rect class="bg" x="1" y="1" width="818" height="208" rx="12"/>
+  <rect class="frame" x="1" y="1" width="818" height="208" rx="12"/>
 
-  <rect class="sweep" x="0" y="1" width="50" height="158" rx="8"/>
+  <rect class="sweep" x="0" y="1" width="50" height="208" rx="8"/>
 
-  <circle class="dot-r" cx="28" cy="26" r="6"/>
-  <circle class="dot-y" cx="50" cy="26" r="6"/>
-  <circle class="dot-g" cx="72" cy="26" r="6"/>
-  <text class="mono prompt" x="360" y="30" font-size="13" text-anchor="middle">— nish.sys — bash</text>
+  <circle class="dot-r" cx="28" cy="28" r="6"/>
+  <circle class="dot-y" cx="50" cy="28" r="6"/>
+  <circle class="dot-g" cx="72" cy="28" r="6"/>
+  <text class="mono prompt" x="360" y="32" font-size="13" text-anchor="middle">— nish.sys — bash</text>
 
-  <text class="mono" x="34" y="88" font-size="20">
+  <text class="mono" x="34" y="92" font-size="20">
     <tspan class="prompt">nishant@nish.sys</tspan><tspan class="prompt">:</tspan><tspan class="path">~</tspan><tspan class="prompt">$ </tspan><tspan class="name">whoami</tspan>
   </text>
 
-  <text class="mono name" x="34" y="128" font-size="44">
+  <text class="mono name" x="34" y="150" font-size="44">
     <tspan class="type-name" style="animation-delay:0.6s">N</tspan><tspan class="type-name" style="animation-delay:0.68s">i</tspan><tspan class="type-name" style="animation-delay:0.76s">s</tspan><tspan class="type-name" style="animation-delay:0.84s">h</tspan><tspan class="type-name" style="animation-delay:0.92s">a</tspan><tspan class="type-name" style="animation-delay:1.0s">n</tspan><tspan class="type-name" style="animation-delay:1.08s">t</tspan><tspan class="type-name" style="animation-delay:1.16s"> </tspan><tspan class="type-name" style="animation-delay:1.24s">S</tspan><tspan class="type-name" style="animation-delay:1.32s">h</tspan><tspan class="type-name" style="animation-delay:1.40s">a</tspan><tspan class="type-name" style="animation-delay:1.48s">r</tspan><tspan class="type-name" style="animation-delay:1.56s">m</tspan><tspan class="type-name" style="animation-delay:1.64s">a</tspan><tspan class="cursor" dx="6">_</tspan>
   </text>
 
-  <text class="mono sub" x="36" y="150" font-size="12">AI SYSTEMS · BACKEND · FULL-STACK</text>
+  <text class="mono sub" x="36" y="188" font-size="12">AI SYSTEMS · BACKEND · FULL-STACK</text>
 </svg>
