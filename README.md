@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/hellonish/hellonish/main/assets/name-banner.svg" alt="Nishant Sharma" width="820" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=38BDF8&background=00000000&width=700&lines=AI+Engineer;ML+Researcher;Founded+ineedajobpro;Founded+singularity.hellonish.dev)](https://git.io/typing-svg)
-
 <a href="https://www.linkedin.com/in/nishantsh20/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://www.hellonish.dev"><img src="https://img.shields.io/badge/Portfolio-hellonish.dev-111827?style=for-the-badge&logo=vercel" /></a>
 <img src="https://komarev.com/ghpvc/?username=hellonish&label=Profile%20Views&style=for-the-badge&color=0ea5e9" />
@@ -17,15 +15,25 @@ $ neofetch
 
 ```
   ┌──────────────────────────────────────────────────────────────┐
-  │  nishant@nish.sys                                            │
+  │                                                              │
+  │   nishant@nish.sys                                           │
+  │                                                              │
   ├──────────────────────────────────────────────────────────────┤
-  │  os      nish.sys v26.0 (always-building edition)            │
-  │  host    NYU Tandon — MS Computer Engineering                │
-  │  uptime  23 years, 0 critical failures                       │
-  │  shell   Python 3.12 · TypeScript 5.4                        │
-  │  focus   LLM agents · RAG · async backends · real-time       │
-  │  memory  [████████░░░░░░░] perpetually full of ideas         │
-  │  idle    false                                               │
+  │                                                              │
+  │   os      nish.sys v26.0 (always-building edition)           │
+  │                                                              │
+  │   host    NYU Tandon — MS Computer Engineering               │
+  │                                                              │
+  │   uptime  23 years, 0 critical failures                      │
+  │                                                              │
+  │   shell   Python 3.12 · TypeScript 5.4                       │
+  │                                                              │
+  │   focus   LLM agents · RAG · async backends · real-time      │
+  │                                                              │
+  │   memory  [████████░░░░░░░] perpetually full of ideas        │
+  │                                                              │
+  │   idle    false                                              │
+  │                                                              │
   └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -98,8 +106,11 @@ $ neofetch
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/?username=hellonish&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=7c8fa8&bg_color=0d1117&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellonish&layout=compact&hide_border=true&title_color=38bdf8&text_color=7c8fa8&bg_color=0d1117&langs_count=8" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hellonish&theme=github_dark" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellonish&theme=github_dark" />
+
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hellonish&theme=github_dark" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hellonish&theme=github_dark&utcOffset=-5" />
 
 </div>
 
