@@ -1,0 +1,69 @@
+name: Refresh profile assets
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - terminal.yml
+      - .github/workflows/profile-assets.yml
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Render terminal
+        uses: williamzujkowski/svg-terminal@v1
+        with:
+          config: terminal.yml
+          output: assets/terminal.svg
+          minify: true
+          commit: false
+
+      - name: Render contribution cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: hellonish
+          cards: contributions,rhythm
+          output-dir: assets/profile-cards
+          themes: light,dark
+          commit: false
+
+      - name: Check out Contribution City generator
+        uses: actions/checkout@v4
+        with:
+          repository: mna11/contribution-city
+          path: .contribution-city
+
+      - name: Generate Contribution City
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: hellonish
+        run: node .contribution-city/generate-city.js
+
+      - name: Install Contribution City
+        run: cp .contribution-city/contribution-city.svg assets/contribution-city.svg
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/terminal.svg assets/profile-cards assets/contribution-city.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile assets [skip ci]"
+          git push

@@ -1,0 +1,55 @@
+theme: tokyo-night
+
+window:
+  width: 846
+  autoHeight: true
+  minHeight: 430
+  maxHeight: 680
+  title: "nishant@systems:~"
+  style: macos
+  borderRadius: 10
+
+terminal:
+  fontSize: 14
+  lineHeight: 1.55
+  prompt: "nishant@systems:~$ "
+  padding: 24
+
+effects:
+  textGlow: false
+  scanlines: false
+  vignette: true
+  shadow: true
+
+animation:
+  loop: false
+  defaultTypingDuration: 0.7
+  outputLineStagger: 0.12
+  commandOutputPause: 0.25
+  outputEndPause: 0.45
+
+maxDuration: 30
+accessibilityLabel: "Nishant's mission, engineering capabilities, and selected systems"
+
+blocks:
+  - block: custom
+    config:
+      command: cat /etc/mission
+      lines:
+        - "I turn ambiguous product and research problems into reliable, observable software."
+
+  - block: custom
+    config:
+      command: capabilities --active
+      lines:
+        - "[[fg:cyan]]orchestration[[/fg]]  multi-agent workflows and evaluation"
+        - "[[fg:cyan]]retrieval[[/fg]]      hybrid search, ranking, and grounded generation"
+        - "[[fg:cyan]]platforms[[/fg]]      asynchronous services, data pipelines, and real-time delivery"
+
+  - block: custom
+    config:
+      command: systemctl --type=service --state=running
+      lines:
+        - "[[fg:green]]●[[/fg]] singularity.service   multi-agent deep research   singularity.hellonish.dev"
+        - "[[fg:green]]●[[/fg]] wand.service          AI career intelligence      github.com/hellonish/Wand"
+        - "[[fg:green]]●[[/fg]] finassistant.service  financial document systems  github.com/hellonish/Finassistant"
