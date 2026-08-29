@@ -88,7 +88,7 @@
 
 <!-- YEAR / WEEK 텍스트 -->
 <text x="50" y="1180" class="stats-label">YEAR:</text>
-<text x="220" y="1180" class="stats-text">423</text>
+<text x="220" y="1180" class="stats-text">424</text>
 <text x="50" y="1230" class="stats-label">WEEK:</text>
 <text x="220" y="1230" class="stats-text">12</text>
 
@@ -741,93 +741,8 @@
 <rect width="10" height="20" transform="matrix(0.866025 0.5 0 1 1725 573)" fill="#388E3C"/>
 <rect width="10" height="20" transform="matrix(0.866025 -0.5 0 1 1733.66 578)" fill="#1B5E20"/>
 
-<!-- Day 1 (SAT) Building (Xsmall) - 1 commits -->
-<g transform="translate(649.904, 0)">
-
-<rect width="20" height="20" transform="matrix(0.866025 0.5 -0.866025 0.5 69.3206 53)" fill="#4D4D4D"/>
-<rect width="20" height="80" transform="matrix(0.866025 0.5 0 1 52 63)" fill="#262626"/>
-<rect width="20" height="80" transform="matrix(0.866025 -0.5 0 1 69.3206 73)" fill="black"/>
-<mask id="mask0_2_3352" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="26" width="139" height="81">
-<rect width="80" height="80" transform="matrix(0.866025 -0.5 -0.866025 -0.5 69.282 106.702)" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask0_2_3352)">
-<rect width="80" height="40" transform="matrix(0.866025 0.5 0 -1 69.282 66.7017)" fill="#4D4D4D"/>
-<rect width="80" height="40" transform="matrix(0.866025 -0.5 0 -1 0 106.702)" fill="#262626"/>
-<rect width="80" height="80" transform="matrix(0.866025 -0.5 -0.866025 -0.5 69.282 146.702)" fill="black"/>
-</g>
-<rect width="60" height="60" transform="matrix(0.866025 0.5 -0.866025 0.5 68.9614 8.19336)" fill="#FDEFBD"/>
-<rect width="60" height="30" transform="matrix(0.866025 0.5 0 1 17 38.1934)" fill="#FCE593"/>
-<rect width="60" height="30" transform="matrix(0.866025 -0.5 0 1 68.9614 68.1934)" fill="#E1C665"/>
-<mask id="mask1_2_3352" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="139" height="80">
-<rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 69.282 0)" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask1_2_3352)">
-<rect width="80" height="40" transform="matrix(0.866025 -0.5 0 1 69.282 40)" fill="#4D4D4D"/>
-<rect width="80" height="40" transform="matrix(0.866025 0.5 0 1 0 0)" fill="#262626"/>
-<rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 69.282 -40)" fill="black"/>
-</g>
-</g>
-
-<!-- Day 1 (SAT) Sign -->
-<g transform="translate(115, 284)">
-
-<rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
-<rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
-<rect width="15" height="150" transform="matrix(0.866025 -0.5 0 1 86.6025 57.5)" fill="#795548"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.062 44.2991)" fill="#B0BEC5"/>
-<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 4 47.7991)" fill="#ECEFF1"/>
-<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 8.33008 50.2991)" fill="#B0BEC5"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 14.3618 48.2996)" fill="#B0BEC5"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 8.2998 51.7996)" fill="#ECEFF1"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 19.5581 58.2996)" fill="#B0BEC5"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.062 25.2986)" fill="#B0BEC5"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 4 28.7986)" fill="#ECEFF1"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 8.33008 31.2986)" fill="#B0BEC5"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 14.2944 35.9999)" fill="#B0BEC5"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 8.23242 39.4999)" fill="#ECEFF1"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 19.4907 45.9999)" fill="#B0BEC5"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 14.3247 23)" fill="#B0BEC5"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 8.2627 26.5)" fill="#ECEFF1"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 19.521 33)" fill="#B0BEC5"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 25.564 32.4993)" fill="#B0BEC5"/>
-<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 19.502 35.9993)" fill="#ECEFF1"/>
-<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 23.832 38.4993)" fill="#B0BEC5"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 25.562 45.8992)" fill="#B0BEC5"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 19.5 49.3992)" fill="#ECEFF1"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 23.8301 51.8992)" fill="#B0BEC5"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 35.062 39.2002)" fill="#B0BEC5"/>
-<rect width="5" height="25" transform="matrix(0.866025 0.5 0 1 29 42.7002)" fill="#ECEFF1"/>
-<rect width="7" height="25" transform="matrix(0.866025 -0.5 0 1 33.3301 45.2002)" fill="#B0BEC5"/>
-<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 39.2622 51.0034)" fill="#B0BEC5"/>
-<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 33.2002 54.5034)" fill="#ECEFF1"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 46.1904 62.0034)" fill="#B0BEC5"/>
-<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 39.2622 38)" fill="#B0BEC5"/>
-<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 33.2002 41.5)" fill="#ECEFF1"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 46.1904 49)" fill="#B0BEC5"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 52.2622 48.6001)" fill="#B0BEC5"/>
-<rect width="5" height="25" transform="matrix(0.866025 0.5 0 1 46.2002 52.1001)" fill="#ECEFF1"/>
-<rect width="7" height="25" transform="matrix(0.866025 -0.5 0 1 50.5303 54.6001)" fill="#B0BEC5"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 71.062 58.6245)" fill="#B0BEC5"/>
-<rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 65 62.1245)" fill="#ECEFF1"/>
-<rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 69.3301 64.6245)" fill="#B0BEC5"/>
-<rect width="20" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 63.0283 49.2898)" fill="#B0BEC5"/>
-<rect width="20" height="5" transform="matrix(0.866025 0.5 -9.77041e-09 1 56.9658 52.7898)" fill="#ECEFF1"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 -9.77041e-09 1 74.2861 62.7899)" fill="#B0BEC5"/>
-<g transform="translate(30, 100)">
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 7.06201 3)" fill="#FFD54F"/>
-<rect width="5" height="5" transform="matrix(0.866025 0.5 0 1 1 6.5)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 5.33008 9)" fill="#FF6F00"/>
-<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 26.9998)" fill="#FFD54F"/>
-<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 0 30.4998)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 12.9902 37.9998)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 11.062 0)" fill="#FFD54F"/>
-<rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 5 3.5)" fill="#FFB300"/>
-<rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 9.33008 6)" fill="#FF6F00"/>
-</g>
-</g>
-
-<!-- Day 2 (SUN) Building (Small) - 4 commits -->
-<g transform="translate(826.888, 103.52199999999999)">
+<!-- Day 1 (SUN) Building (Small) - 4 commits -->
+<g transform="translate(643.904, -1)">
 
 <rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 78.282 3.29834)" fill="#BDCBFD"/>
 <rect width="80" height="100" transform="matrix(0.866025 0.5 0 1 9 43.2983)" fill="#93AAFC"/>
@@ -865,8 +780,8 @@
 <rect width="90" height="20" transform="matrix(0.866025 -0.5 0 1 77.9424 90)" fill="#5A72C8"/>
 </g>
 
-<!-- Day 2 (SUN) Sign -->
-<g transform="translate(302, 388)">
+<!-- Day 1 (SUN) Sign -->
+<g transform="translate(115, 284)">
 
 <rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
 <rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
@@ -941,8 +856,8 @@
 </g>
 </g>
 
-<!-- Day 3 (MON) Sign -->
-<g transform="translate(482, 498)">
+<!-- Day 2 (MON) Sign -->
+<g transform="translate(302, 388)">
 
 <rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
 <rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
@@ -1020,8 +935,8 @@
 </g>
 </g>
 
-<!-- Day 4 (TUE) Sign -->
-<g transform="translate(680, 610)">
+<!-- Day 3 (TUE) Sign -->
+<g transform="translate(482, 498)">
 
 <rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
 <rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
@@ -1069,8 +984,8 @@
 </g>
 </g>
 
-<!-- Day 5 (WED) Building (Small) - 4 commits -->
-<g transform="translate(1410.55, 439.221)">
+<!-- Day 4 (WED) Building (Small) - 4 commits -->
+<g transform="translate(1206.87, 322.945)">
 
 <rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 78.282 3.29834)" fill="#BDCBFD"/>
 <rect width="80" height="100" transform="matrix(0.866025 0.5 0 1 9 43.2983)" fill="#93AAFC"/>
@@ -1108,8 +1023,8 @@
 <rect width="90" height="20" transform="matrix(0.866025 -0.5 0 1 77.9424 90)" fill="#5A72C8"/>
 </g>
 
-<!-- Day 5 (WED) Sign -->
-<g transform="translate(876, 728)">
+<!-- Day 4 (WED) Sign -->
+<g transform="translate(680, 610)">
 
 <rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
 <rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
@@ -1166,8 +1081,8 @@
 </g>
 </g>
 
-<!-- Day 6 (THU) Building (Xsmall) - 3 commits -->
-<g transform="translate(1618.83, 554.808)">
+<!-- Day 5 (THU) Building (Xsmall) - 3 commits -->
+<g transform="translate(1416.55, 440.221)">
 
 <rect width="20" height="20" transform="matrix(0.866025 0.5 -0.866025 0.5 69.3206 53)" fill="#4D4D4D"/>
 <rect width="20" height="80" transform="matrix(0.866025 0.5 0 1 52 63)" fill="#262626"/>
@@ -1193,8 +1108,8 @@
 </g>
 </g>
 
-<!-- Day 6 (THU) Sign -->
-<g transform="translate(1081, 847)">
+<!-- Day 5 (THU) Sign -->
+<g transform="translate(876, 728)">
 
 <rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
 <rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
@@ -1254,8 +1169,35 @@
 </g>
 </g>
 
-<!-- Day 7 (FRI) Sign -->
-<g transform="translate(1294, 958)">
+<!-- Day 6 (FRI) Building (Xsmall) - 1 commits -->
+<g transform="translate(1618.83, 554.808)">
+
+<rect width="20" height="20" transform="matrix(0.866025 0.5 -0.866025 0.5 69.3206 53)" fill="#4D4D4D"/>
+<rect width="20" height="80" transform="matrix(0.866025 0.5 0 1 52 63)" fill="#262626"/>
+<rect width="20" height="80" transform="matrix(0.866025 -0.5 0 1 69.3206 73)" fill="black"/>
+<mask id="mask0_2_3352" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="26" width="139" height="81">
+<rect width="80" height="80" transform="matrix(0.866025 -0.5 -0.866025 -0.5 69.282 106.702)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2_3352)">
+<rect width="80" height="40" transform="matrix(0.866025 0.5 0 -1 69.282 66.7017)" fill="#4D4D4D"/>
+<rect width="80" height="40" transform="matrix(0.866025 -0.5 0 -1 0 106.702)" fill="#262626"/>
+<rect width="80" height="80" transform="matrix(0.866025 -0.5 -0.866025 -0.5 69.282 146.702)" fill="black"/>
+</g>
+<rect width="60" height="60" transform="matrix(0.866025 0.5 -0.866025 0.5 68.9614 8.19336)" fill="#FDEFBD"/>
+<rect width="60" height="30" transform="matrix(0.866025 0.5 0 1 17 38.1934)" fill="#FCE593"/>
+<rect width="60" height="30" transform="matrix(0.866025 -0.5 0 1 68.9614 68.1934)" fill="#E1C665"/>
+<mask id="mask1_2_3352" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="139" height="80">
+<rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 69.282 0)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_2_3352)">
+<rect width="80" height="40" transform="matrix(0.866025 -0.5 0 1 69.282 40)" fill="#4D4D4D"/>
+<rect width="80" height="40" transform="matrix(0.866025 0.5 0 1 0 0)" fill="#262626"/>
+<rect width="80" height="80" transform="matrix(0.866025 0.5 -0.866025 0.5 69.282 -40)" fill="black"/>
+</g>
+</g>
+
+<!-- Day 6 (FRI) Sign -->
+<g transform="translate(1081, 847)">
 
 <rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
 <rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
@@ -1287,6 +1229,64 @@
 <rect width="5.05868" height="7.08215" transform="matrix(0.85598 0.517009 -0.85598 0.517009 67.0625 58.2924)" fill="#B0BEC5"/>
 <rect width="5.05868" height="32.4308" transform="matrix(0.85598 0.517009 0 1 61 61.9539)" fill="#ECEFF1"/>
 <rect width="7.08215" height="32.4308" transform="matrix(0.85598 -0.517009 0 1 65.3301 64.5693)" fill="#B0BEC5"/>
+<g transform="translate(30, 100)">
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 7.06201 3)" fill="#FFD54F"/>
+<rect width="5" height="5" transform="matrix(0.866025 0.5 0 1 1 6.5)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 5.33008 9)" fill="#FF6F00"/>
+<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 26.9998)" fill="#FFD54F"/>
+<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 0 30.4998)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 12.9902 37.9998)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 11.062 0)" fill="#FFD54F"/>
+<rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 5 3.5)" fill="#FFB300"/>
+<rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 9.33008 6)" fill="#FF6F00"/>
+</g>
+</g>
+
+<!-- Day 7 (SAT) Sign -->
+<g transform="translate(1294, 958)">
+
+<rect width="100" height="15" transform="matrix(0.866025 0.5 -0.866025 0.5 12.9902 0)" fill="#A1887F"/>
+<rect width="100" height="150" transform="matrix(0.866025 0.5 0 1 0 7.5)" fill="#4E342E"/>
+<rect width="15" height="150" transform="matrix(0.866025 -0.5 0 1 86.6025 57.5)" fill="#795548"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.062 44.2991)" fill="#B0BEC5"/>
+<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 4 47.7991)" fill="#ECEFF1"/>
+<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 8.33008 50.2991)" fill="#B0BEC5"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 14.3618 48.2996)" fill="#B0BEC5"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 8.2998 51.7996)" fill="#ECEFF1"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 19.5581 58.2996)" fill="#B0BEC5"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.062 25.2986)" fill="#B0BEC5"/>
+<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 4 28.7986)" fill="#ECEFF1"/>
+<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 8.33008 31.2986)" fill="#B0BEC5"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 14.2944 35.9999)" fill="#B0BEC5"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 8.23242 39.4999)" fill="#ECEFF1"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 19.4907 45.9999)" fill="#B0BEC5"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 14.3247 23)" fill="#B0BEC5"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 8.2627 26.5)" fill="#ECEFF1"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 19.521 33)" fill="#B0BEC5"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 25.564 32.4993)" fill="#B0BEC5"/>
+<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 19.502 35.9993)" fill="#ECEFF1"/>
+<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 23.832 38.4993)" fill="#B0BEC5"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 25.562 45.8992)" fill="#B0BEC5"/>
+<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 19.5 49.3992)" fill="#ECEFF1"/>
+<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 23.8301 51.8992)" fill="#B0BEC5"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 35.062 39.2002)" fill="#B0BEC5"/>
+<rect width="5" height="25" transform="matrix(0.866025 0.5 0 1 29 42.7002)" fill="#ECEFF1"/>
+<rect width="7" height="25" transform="matrix(0.866025 -0.5 0 1 33.3301 45.2002)" fill="#B0BEC5"/>
+<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 39.2622 51.0034)" fill="#B0BEC5"/>
+<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 33.2002 54.5034)" fill="#ECEFF1"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 46.1904 62.0034)" fill="#B0BEC5"/>
+<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 39.2622 38)" fill="#B0BEC5"/>
+<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 33.2002 41.5)" fill="#ECEFF1"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 46.1904 49)" fill="#B0BEC5"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 52.2622 48.6001)" fill="#B0BEC5"/>
+<rect width="5" height="25" transform="matrix(0.866025 0.5 0 1 46.2002 52.1001)" fill="#ECEFF1"/>
+<rect width="7" height="25" transform="matrix(0.866025 -0.5 0 1 50.5303 54.6001)" fill="#B0BEC5"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 71.062 58.6245)" fill="#B0BEC5"/>
+<rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 65 62.1245)" fill="#ECEFF1"/>
+<rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 69.3301 64.6245)" fill="#B0BEC5"/>
+<rect width="20" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 63.0283 49.2898)" fill="#B0BEC5"/>
+<rect width="20" height="5" transform="matrix(0.866025 0.5 -9.77041e-09 1 56.9658 52.7898)" fill="#ECEFF1"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 -9.77041e-09 1 74.2861 62.7899)" fill="#B0BEC5"/>
 <g transform="translate(30, 100)">
 <rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 1.70007)" fill="#FFD54F"/>
 <rect width="5" height="25" transform="matrix(0.866025 0.5 0 1 0 5.20007)" fill="#FFB300"/>
